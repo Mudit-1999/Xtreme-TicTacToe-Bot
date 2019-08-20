@@ -11,7 +11,7 @@
 
 Some strengths of our bot are that might have set it apart from the bots it beat are:
 
-### Quiescence search - 
+### Quiescence search
 Human players usually have enough intuition to decide whether to abandon a bad-looking move, or search a promising move to a great depth. A quiescence search attempts to emulate this behavior by instructing a computer to search "interesting" positions to a greater depth than "quiet" ones to make sure there are no hidden traps and to get a better estimate of its value.
 
 ### Weighted Action 
